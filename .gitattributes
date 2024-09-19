@@ -34,6 +34,5 @@ psalm_autoload.php           export-ignore
 rector.php                   export-ignore
 
 # source user guide
-user_guide_src/ export-ignore
 .nojekyll       export-ignore
 phpdoc.dist.xml export-ignore
